@@ -9,11 +9,14 @@ This plugin has a few features:
 
 For now, the plugin is pretty barebone, what I'd like to add in the future:
 
+- Tab completion suggestions
 - A command to manually restore the list of warps to a backup (As of now, you're required to manually move and rename the backup in the project.
 - A command to delete all warps (Starting fresh)
 - Permissions
 - More customisation (Warp limit per player, cost multiplier, different payment methods than levels, for example minerals, etc.)
 - Integration with economy based plugins like Vault.
+
+But for now this project is not one I'm actively working on.
 
 Please be aware that while you can use this plugin on a server I offer no warranty that it'll work without issue, but I will provide support if contacted via Discord.
 

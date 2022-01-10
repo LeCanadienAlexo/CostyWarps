@@ -1,0 +1,10 @@
+name: 'CostyWarp'
+author: 'LeCanadienAlexo'
+version: '0.1.5'
+main: 'com.kiwisty.simonbonkers.Main'
+api-version: '1.18'
+commands:
+  warp:
+    description: 'Base command to teleport to a warp, or create/delete/list warps'
+    usage: 'Usage: /<command> [create|delete|list]'
+
